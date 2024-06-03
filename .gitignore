@@ -1,3 +1,11 @@
+2w_exp_tracking/output_folder/
+2w_exp_tracking/taxi_data_folder/
+
+mlflow.db
+mlruns
+models/
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
